@@ -1,0 +1,3 @@
+depositou (+), 200.0
+depositou (+), 300.0
+depositou (+), 100.0
