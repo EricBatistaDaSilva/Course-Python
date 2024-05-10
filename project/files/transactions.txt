@@ -1,3 +1,5 @@
-depositou (+), 200.0
-depositou (+), 300.0
-depositou (+), 100.0
+depositou (+), 950.0
+sacou (-), 800.0
+depositou (+), 458.0
+sacou (-), 500.0
+sacou (-), 1408.0
